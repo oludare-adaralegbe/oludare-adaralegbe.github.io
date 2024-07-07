@@ -66,10 +66,10 @@ To identify high-performing UK YouTubers for our 2024 marketing campaigns, we'll
 - Target Audience
 
 ## Phases
-1. **Design**
-2. **Development & Implementation**
-3. **Quality Assurance**
-4. **Analysis**
+1. Design
+2. Development & Implementation
+3. Quality Assurance
+4. Analysis
 
 ## Design
 
