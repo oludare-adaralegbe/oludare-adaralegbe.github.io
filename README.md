@@ -73,6 +73,8 @@ To identify high-performing UK YouTubers for our 2024 marketing campaigns, we'll
 3. Quality Assurance
 4. Analysis
 
+![project-workflow](assets/images/project_workflow.png)
+
 ## Design
 
 ### Dashboard Questions
@@ -103,7 +105,7 @@ The dashboard will consist of several visual elements to answer the questions li
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
 ### Tools
-The project will likely utilize a combination of the following tools:
+The project utilises a combination of the following tools:
 - **Excel**: Initial data exploration and evaluation of the channels for product placement.
 - **SQL Server**: For data cleaning, data quality tests, and analysis.
 - **Power BI**: Primary tool for creating interactive visualizations and the final dashboard.
