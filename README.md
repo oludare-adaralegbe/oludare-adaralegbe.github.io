@@ -107,6 +107,7 @@ The dashboard will consist of several visual elements to answer the questions li
 ### Tools
 The project utilises a combination of the following tools:
 - **Excel**: Initial data exploration and evaluation of the channels for product placement.
+- **Jupyter Notebook**: For writing python script, using the YouTube Data API, to fetch channel statistics. 
 - **SQL Server**: For data cleaning, data quality tests, and analysis.
 - **Power BI**: Primary tool for creating interactive visualizations and the final dashboard.
 - **GitHub**: Hosting project documentation, code, and version control.
@@ -120,15 +121,16 @@ The project utilises a combination of the following tools:
 
 **Steps**:
 1. Download the data from Kaggle.
-2. Perform initial data exploration to understand its structure.
-3. Import data into SQL Server.
-4. Clean and transform the data using SQL queries in SQL Server to make sure it is accurate and complete. This may involve casting data types and addressing inconsistencies.
-5. Test the cleaned data to ensure accuracy and completeness.
-6. Import the cleaned data into Power BI for visualisation.
-7. Create DAX measures to calculate additional metrics relevant for analysis.
-8. Build interactive data visualisations within Power BI to create an informative dashboard.
-9. Analyse the data to identify key insights.
-10. Provide recommendations for potential YouTube channels to partner with.
+2. Perform initial data exploration to understand its structure and usefulness.
+3. Scrape channel-specific information from YouTube, including subscriber count, total views, total videos uploaded, likes and comments to enhance the Kaggle dataset. Additionally, each channel's category and target audience were researched.
+4. Import data into SQL Server.
+5. Clean and transform the data using SQL queries in SQL Server to make sure it is accurate and complete. This may involve casting data types and addressing inconsistencies.
+6. Test the cleaned data to ensure accuracy and completeness.
+7. Import the cleaned data into Power BI for visualisation.
+8. Create DAX measures to calculate additional metrics relevant for analysis.
+9. Build interactive data visualisations within Power BI to create an informative dashboard.
+10. Analyse the data to identify key insights.
+11. Provide recommendations for potential YouTube channels to partner with.
 
 ### Initial Data Observations
 The initial exploration in Excel reveals several key observations:
