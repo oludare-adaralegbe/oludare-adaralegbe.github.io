@@ -298,7 +298,10 @@ HAVING
 ## Visualisation
 ### Dashboard
 
+
 ![Power BI Dashboard GIF](assets/images/powerbi_dashboard.gif)
+![Power BI Dashboard JPG](assets/images/powerbi_dashboard.jpg)
+
 
 ### DAX Measures
 #### 1. Total Subscribers (M)
