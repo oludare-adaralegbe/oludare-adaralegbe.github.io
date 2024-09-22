@@ -1,7 +1,7 @@
 # Top UK Youtubers 2024 Dashboard
 
 
-![project-flow-design](assets/images/design.png)
+![project-flow-design](assets/images/landing_page.png)
 
 
 ## Table of Contents
