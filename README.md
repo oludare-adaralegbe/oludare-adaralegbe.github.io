@@ -36,7 +36,7 @@ Identify Top UK YouTubers for Effective Marketing Campaigns in 2024.
 The Head of Marketing needs a data-driven approach to identify the most impactful UK YouTubers for their 2024 marketing campaigns. These collaborations will be crucial for reaching the right audience and maximizing campaign impact.
 
 ### The Solution
-By using publicly available data (including YouTube Data API and Kaggle datasets) a dashboard focusing on UK YouTubers in 2024 can be created. This dashboard will display crucial metrics like:
+The project features a dashboard focusing on UK YouTubers in 2024, developed by merging data scraped through the YouTube Data API with publicly available datasets from Kaggle. This dashboard will display crucial metrics like:
 - **Subscriber Count**: Shows the established audience base of each YouTuber.
 - **Total Views**: Indicates the overall content reach and potential viewership for marketing campaigns.
 - **Total Videos**: Provides context on content creation frequency and potential campaign integration opportunities.
